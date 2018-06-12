@@ -1,3 +1,6 @@
 # guacamole recipe
 - Avocados
-- onion
+ - onion
+ - salt
+ - tomato
+
